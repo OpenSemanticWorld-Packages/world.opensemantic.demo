@@ -1,0 +1,92 @@
+{
+    "publisher": "OpenSemanticWorld",
+    "publisherURL": "https://github.com/OpenSemanticWorld-Packages/world.opensemantic.demo",
+    "author": [
+        "Simon Stier"
+    ],
+    "language": "en",
+    "licenseName": "CC BY-NC 4.0",
+    "packages": {
+        "OSW Demo - Common": {
+            "globalID": "world.opensemantic.demo.common",
+            "label": "OSW Demo - Common",
+            "description": "Provides common demo content",
+            "version": "0.1.0",
+            "baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.demo/main/common/",
+            "pages": [
+                {
+                    "name": "OSWb894a0c0e11c47d8a0dc591f75c7962c",
+                    "label": "TowardsAnOpenSemanticWorld",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWb894a0c0e11c47d8a0dc591f75c7962c.slot_main.wikitext",
+                    "slots": {
+                        "footer": {
+                            "urlPath": "Item/OSWb894a0c0e11c47d8a0dc591f75c7962c.slot_footer.wikitext"
+                        },
+                        "header": {
+                            "urlPath": "Item/OSWb894a0c0e11c47d8a0dc591f75c7962c.slot_header.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWb894a0c0e11c47d8a0dc591f75c7962c.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWca8f033210a24600974833e5252c09ad.png",
+                    "namespace": "NS_FILE",
+                    "urlPath": "File/OSWca8f033210a24600974833e5252c09ad.png.slot_main.wikitext",
+                    "fileURLPath": "File/OSWca8f033210a24600974833e5252c09ad.png",
+                    "slots": {}
+                },
+                {
+                    "name": "OSW0e49b7ed40774f0a9788158794cb88cf",
+                    "label": "FemsEuromat2023",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW0e49b7ed40774f0a9788158794cb88cf.slot_main.wikitext",
+                    "slots": {
+                        "footer": {
+                            "urlPath": "Item/OSW0e49b7ed40774f0a9788158794cb88cf.slot_footer.wikitext"
+                        },
+                        "header": {
+                            "urlPath": "Item/OSW0e49b7ed40774f0a9788158794cb88cf.slot_header.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW0e49b7ed40774f0a9788158794cb88cf.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWd4d00fcc5d18499bb17faf744ab36185.jpg",
+                    "namespace": "NS_FILE",
+                    "urlPath": "File/OSWd4d00fcc5d18499bb17faf744ab36185.jpg.slot_main.wikitext",
+                    "fileURLPath": "File/OSWd4d00fcc5d18499bb17faf744ab36185.jpg",
+                    "slots": {}
+                },
+                {
+                    "name": "OSW3a941905208445c2ae5d181646a87de2",
+                    "label": "Porridge",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW3a941905208445c2ae5d181646a87de2.slot_main.wikitext",
+                    "slots": {
+                        "footer": {
+                            "urlPath": "Item/OSW3a941905208445c2ae5d181646a87de2.slot_footer.wikitext"
+                        },
+                        "header": {
+                            "urlPath": "Item/OSW3a941905208445c2ae5d181646a87de2.slot_header.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW3a941905208445c2ae5d181646a87de2.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWcaf3d5f5d19645808dc587da8738ea1b.jpg",
+                    "namespace": "NS_FILE",
+                    "urlPath": "File/OSWcaf3d5f5d19645808dc587da8738ea1b.jpg.slot_main.wikitext",
+                    "fileURLPath": "File/OSWcaf3d5f5d19645808dc587da8738ea1b.jpg",
+                    "slots": {}
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "@type": "schema:Recipe",
+    "type": [
+        "Category:OSW81e9e22e7d934382a6a56df7d3736957"
+    ],
+    "uuid": "3a941905-2084-45c2-ae5d-181646a87de2",
+    "label": [
+        {
+            "text": "Porridge",
+            "lang": "en"
+        }
+    ],
+    "image": "File:OSWcaf3d5f5d19645808dc587da8738ea1b.jpg",
+    "description": [
+        {
+            "text": "Schnelles Fr\u00fchst\u00fcck f\u00fcr die Mikrowelle",
+            "lang": "de"
+        }
+    ],
+    "name": "Porridge"
+}
