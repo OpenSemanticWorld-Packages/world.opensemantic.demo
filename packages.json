@@ -11,9 +11,15 @@
             "globalID": "world.opensemantic.demo.common",
             "label": "OSW Demo - Common",
             "description": "Provides common demo content",
-            "version": "0.1.2",
+            "version": "0.1.3",
             "baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.demo/main/common/",
             "pages": [
+                {
+                    "name": "Main_Page",
+                    "namespace": "NS_MAIN",
+                    "urlPath": "Main/Main_Page.slot_main.wikitext",
+                    "slots": {}
+                },
                 {
                     "name": "OSWb894a0c0e11c47d8a0dc591f75c7962c",
                     "label": "TowardsAnOpenSemanticWorld",

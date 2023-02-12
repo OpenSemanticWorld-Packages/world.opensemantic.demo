@@ -1,0 +1,29 @@
+<big>Welcome to {{SITENAME}}!</big>
+
+{{Template:Helper/UI/Tiles/Grid
+  |tiles=
+    {{Template:Helper/UI/Tiles/Tile
+      |action=create-instance
+      |category=Category:OSW92cc6b1a2e6b4bb7bad470dfdcfdaf26 <!--Article-->
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=query-instance
+      |category=Category:OSW92cc6b1a2e6b4bb7bad470dfdcfdaf26 <!--Article-->
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=create-instance
+      |category=Category:OSW0e084decca6f48a7b023d6b7b2c1452d <!--Event-->
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=query-instance
+      |category=Category:OSW0e084decca6f48a7b023d6b7b2c1452d <!--Event-->
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=create-instance
+      |category=Category:OSW81e9e22e7d934382a6a56df7d3736957 <!--Recipe-->
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=query-instance
+      |category=Category:OSW81e9e22e7d934382a6a56df7d3736957 <!--Recipe-->
+    }}
+}}
