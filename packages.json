@@ -16,7 +16,6 @@
             "pages": [
                 {
                     "name": "Main_Page",
-                    "namespace": "NS_MAIN",
                     "urlPath": "Main/Main_Page.slot_main.wikitext",
                     "slots": {}
                 },
