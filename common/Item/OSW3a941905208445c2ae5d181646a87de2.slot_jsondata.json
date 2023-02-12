@@ -1,20 +1,43 @@
 {
+    "input": [
+        "50 g Haferflocken, zarte",
+        "170 g Vollmilch, 3,5 % Fett",
+        "20 g Zucker ",
+        "1 m.-gro\u00dfer Apfel ",
+        "1 TL, gestr. Zimtpulver "
+    ],
+    "steps": [
+        {
+            "step_name": "Apfel vorbereiten",
+            "step_description": "Apfel sch\u00e4len und in ca. 5 mm sehr kleine St\u00fccke schneiden."
+        },
+        {
+            "step_name": "Zutaten mischen und erw\u00e4rmen",
+            "step_description": "Alle Zutaten in einer Sch\u00fcssel vermischen und ca. 3 Minuten bei 800 Watt in die Mikrowelle stellen. Dabei die Apfelschalen naschen."
+        },
+        {
+            "step_name": "Anrichten",
+            "step_description": "Anschlie\u00dfend noch einmal gr\u00fcndlich durchmischen. Wem die Konsistenz zu fest ist, der kann dabei noch etwas Milch hinzuf\u00fcgen. Wer die Apfelst\u00fccke lieber knackig mag, f\u00fcgt diese erst am Ende hinzu."
+        }
+    ],
     "type": [
         "Category:OSW81e9e22e7d934382a6a56df7d3736957"
     ],
     "uuid": "3a941905-2084-45c2-ae5d-181646a87de2",
+    "name": "Porridge",
     "label": [
         {
             "text": "Porridge",
             "lang": "en"
         }
     ],
-    "image": "File:OSWcaf3d5f5d19645808dc587da8738ea1b.jpg",
     "description": [
         {
             "text": "Schnelles Fr\u00fchst\u00fcck f\u00fcr die Mikrowelle",
             "lang": "de"
         }
     ],
-    "name": "Porridge"
+    "image": "File:OSWcaf3d5f5d19645808dc587da8738ea1b.jpg",
+    "preparation_duration": "PT5M",
+    "processing_duration": "PT3M"
 }
