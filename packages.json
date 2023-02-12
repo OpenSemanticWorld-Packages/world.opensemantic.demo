@@ -11,7 +11,7 @@
             "globalID": "world.opensemantic.demo.common",
             "label": "OSW Demo - Common",
             "description": "Provides common demo content",
-            "version": "0.1.4",
+            "version": "0.1.5",
             "baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.demo/main/common/",
             "pages": [
                 {

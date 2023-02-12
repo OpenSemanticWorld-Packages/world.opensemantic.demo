@@ -1,4 +1,6 @@
 {
+    "preparation_duration": "PT5M",
+    "processing_duration": "PT3M",
     "input": [
         "50 g Haferflocken, zarte",
         "170 g Vollmilch, 3,5 % Fett",
@@ -8,14 +10,17 @@
     ],
     "steps": [
         {
+            "@type": "schema:HowToStep",
             "step_name": "Apfel vorbereiten",
             "step_description": "Apfel sch\u00e4len und in ca. 5 mm sehr kleine St\u00fccke schneiden."
         },
         {
+            "@type": "schema:HowToStep",
             "step_name": "Zutaten mischen und erw\u00e4rmen",
             "step_description": "Alle Zutaten in einer Sch\u00fcssel vermischen und ca. 3 Minuten bei 800 Watt in die Mikrowelle stellen. Dabei die Apfelschalen naschen."
         },
         {
+            "@type": "schema:HowToStep",
             "step_name": "Anrichten",
             "step_description": "Anschlie\u00dfend noch einmal gr\u00fcndlich durchmischen. Wem die Konsistenz zu fest ist, der kann dabei noch etwas Milch hinzuf\u00fcgen. Wer die Apfelst\u00fccke lieber knackig mag, f\u00fcgt diese erst am Ende hinzu."
         }
@@ -37,7 +42,5 @@
             "lang": "de"
         }
     ],
-    "image": "File:OSWcaf3d5f5d19645808dc587da8738ea1b.jpg",
-    "preparation_duration": "PT5M",
-    "processing_duration": "PT3M"
+    "image": "File:OSWcaf3d5f5d19645808dc587da8738ea1b.jpg"
 }
