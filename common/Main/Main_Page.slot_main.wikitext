@@ -1,5 +1,51 @@
-<big>Welcome to {{SITENAME}}!</big>
+<big>{{#switch: {{USERLANGUAGECODE}} |en=Welcome to |de=Willkommen im |#default=Welcome to}} {{SITENAME}}!</big>
 
+=={{#switch: {{USERLANGUAGECODE}} |en=Semantic Lab |de=Semantisches Labor |#default=Semantic Lab}}==
+... comming soon
+<!-- {{Template:Helper/UI/Tiles/Grid
+  |tiles=
+    {{Template:Helper/UI/Tiles/Tile
+      |action=create-instance
+      |category=Category:OSW0e7fab2262fb4427ad0fa454bc868a0d--> <!--ElnEntry--><!-- 
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=query-instance
+      |category=Category:OSW0e7fab2262fb4427ad0fa454bc868a0d--> <!--ElnEntry--><!-- 
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=create-instance
+      |category=Category:OSWf0fe562f422d49c6877490b3dfee2f3f--> <!--Device--><!-- 
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=query-instance
+      |category=Category:OSWf0fe562f422d49c6877490b3dfee2f3f--> <!--Device--><!-- 
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=create-instance
+      |category=Category:OSW31ca9a739cb24079b36824045c0832aa--> <!--Material--><!-- 
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=query-instance
+      |category=Category:OSW31ca9a739cb24079b36824045c0832aa--> <!--Material--><!-- 
+    }}
+}} -->
+
+== {{#switch: {{USERLANGUAGECODE}} |en=Virtual Lab |de=Virtuelles Labor |#default=Virtual Lab}} ==
+... comming soon
+<!-- {{Template:Helper/UI/Tiles/Grid
+  |tiles=
+    {{Template:Helper/UI/Tiles/Tile
+      |action=create-subcategory
+      |category=Category:OSW8e511130cecf4d7fa4177c9c65904fc1 --><!--Model--><!-- 
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=create-instance
+      |category=Category:OSW553f78cc66194ae1873241207b906c4b --><!--BattmoModel--><!-- 
+    }}
+}} -->
+
+
+== {{#switch: {{USERLANGUAGECODE}} |en=Common Features |de=Allgemeine Funktionen |#default=Common Features}} ==
 {{Template:Helper/UI/Tiles/Grid
   |tiles=
     {{Template:Helper/UI/Tiles/Tile
@@ -9,6 +55,22 @@
     {{Template:Helper/UI/Tiles/Tile
       |action=query-instance
       |category=Category:OSW92cc6b1a2e6b4bb7bad470dfdcfdaf26 <!--Article-->
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=create-instance
+      |category=Category:OSW494f660e6a714a1a9681c517bbb975da <!--Tutorial-->
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=query-instance
+      |category=Category:OSW494f660e6a714a1a9681c517bbb975da <!--Tutorial-->
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=create-instance
+      |category=Category:OSWa5812d3b5119416c8da1606cbe7054eb<!--Term-->
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=query-instance
+      |category=Category:OSWa5812d3b5119416c8da1606cbe7054eb<!--Term-->
     }}
     {{Template:Helper/UI/Tiles/Tile
       |action=create-instance
