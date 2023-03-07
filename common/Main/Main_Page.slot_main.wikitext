@@ -54,7 +54,7 @@
     }}
     {{Template:Helper/UI/Tiles/Tile
       |action=create-instance
-      |category=Category:Property<!--Property-->
+      |category=Category:ObjectProperty<!--Property-->
     }}
     {{Template:Helper/UI/Tiles/Tile
       |action=create-instance
