@@ -1,7 +1,7 @@
 <big>{{#switch: {{USERLANGUAGECODE}} |en=Welcome to |de=Willkommen im |#default=Welcome to}} {{SITENAME}}!</big>
 
 =={{#switch: {{USERLANGUAGECODE}} |en=Semantic Lab |de=Semantisches Labor |#default=Semantic Lab}}==
-... comming soon
+... coming soon
 <!-- {{Template:Helper/UI/Tiles/Grid
   |tiles=
     {{Template:Helper/UI/Tiles/Tile
@@ -31,7 +31,7 @@
 }} -->
 
 == {{#switch: {{USERLANGUAGECODE}} |en=Virtual Lab |de=Virtuelles Labor |#default=Virtual Lab}} ==
-... comming soon
+... coming soon
 <!-- {{Template:Helper/UI/Tiles/Grid
   |tiles=
     {{Template:Helper/UI/Tiles/Tile
@@ -50,6 +50,14 @@
   |tiles=
     {{Template:Helper/UI/Tiles/Tile
       |action=create-instance
+      |category=Category:OSWa5812d3b5119416c8da1606cbe7054eb<!--Term-->
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=create-instance
+      |category=Category:Property<!--Property-->
+    }}
+    {{Template:Helper/UI/Tiles/Tile
+      |action=create-instance
       |category=Category:OSW92cc6b1a2e6b4bb7bad470dfdcfdaf26 <!--Article-->
     }}
     {{Template:Helper/UI/Tiles/Tile
@@ -63,14 +71,6 @@
     {{Template:Helper/UI/Tiles/Tile
       |action=query-instance
       |category=Category:OSW494f660e6a714a1a9681c517bbb975da <!--Tutorial-->
-    }}
-    {{Template:Helper/UI/Tiles/Tile
-      |action=create-instance
-      |category=Category:OSWa5812d3b5119416c8da1606cbe7054eb<!--Term-->
-    }}
-    {{Template:Helper/UI/Tiles/Tile
-      |action=query-instance
-      |category=Category:OSWa5812d3b5119416c8da1606cbe7054eb<!--Term-->
     }}
     {{Template:Helper/UI/Tiles/Tile
       |action=create-instance
