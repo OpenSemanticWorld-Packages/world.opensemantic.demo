@@ -1,34 +1,42 @@
 <big>{{#switch: {{USERLANGUAGECODE}} |en=Welcome to |de=Willkommen im |#default=Welcome to}} {{SITENAME}}!</big>
 
+{{#switch: {{USERLANGUAGECODE}} |#default=This instance is public, but to create or edit content you need to [[Special:UserLogin|login via ORCID]] first. |en=This instance is public, but to create or edit content you need to [[Special:UserLogin|login via ORCID]] first. |de=Diese Instanz ist öffentlich, zum Erstellen oder Bearbeiten von Inhalten musst du dich jedoch zunächst [[Special:UserLogin|via ORCID anmelden]].}}
+
 =={{#switch: {{USERLANGUAGECODE}} |en=Semantic Lab |de=Semantisches Labor |#default=Semantic Lab}}==
-... coming soon
-<!-- {{Template:Helper/UI/Tiles/Grid
+ {{Template:Helper/UI/Tiles/Grid
   |tiles=
     {{Template:Helper/UI/Tiles/Tile
       |action=create-instance
-      |category=Category:OSW0e7fab2262fb4427ad0fa454bc868a0d--> <!--ElnEntry--><!-- 
+      |category=Category:OSW0e7fab2262fb4427ad0fa454bc868a0d<!-- ElnEntry--> 
     }}
     {{Template:Helper/UI/Tiles/Tile
       |action=query-instance
-      |category=Category:OSW0e7fab2262fb4427ad0fa454bc868a0d--> <!--ElnEntry--><!-- 
+      |category=Category:OSW0e7fab2262fb4427ad0fa454bc868a0d<!-- ElnEntry--> 
     }}
-    {{Template:Helper/UI/Tiles/Tile
+<!-- Device--> 
+<!--     {{Template:Helper/UI/Tiles/Tile
       |action=create-instance
-      |category=Category:OSWf0fe562f422d49c6877490b3dfee2f3f--> <!--Device--><!-- 
+      |category=Category:OSWf0fe562f422d49c6877490b3dfee2f3f
     }}
     {{Template:Helper/UI/Tiles/Tile
       |action=query-instance
-      |category=Category:OSWf0fe562f422d49c6877490b3dfee2f3f--> <!--Device--><!-- 
-    }}
-    {{Template:Helper/UI/Tiles/Tile
+      |category=Category:OSWf0fe562f422d49c6877490b3dfee2f3f
+    }} -->
+<!-- Material--> 
+<!--     {{Template:Helper/UI/Tiles/Tile
       |action=create-instance
-      |category=Category:OSW31ca9a739cb24079b36824045c0832aa--> <!--Material--><!-- 
+      |category=Category:OSW31ca9a739cb24079b36824045c0832aa
     }}
     {{Template:Helper/UI/Tiles/Tile
       |action=query-instance
-      |category=Category:OSW31ca9a739cb24079b36824045c0832aa--> <!--Material--><!-- 
-    }}
-}} -->
+      |category=Category:OSW31ca9a739cb24079b36824045c0832aa
+    }} -->
+<!-- Reference--> 
+<!--     {{Template:Helper/UI/Tiles/Tile
+      |action=create-instance
+      |category=Category:OSW4630630239ab416884fe21a5e1d848a3
+    }} -->
+}}
 
 == {{#switch: {{USERLANGUAGECODE}} |en=Virtual Lab |de=Virtuelles Labor |#default=Virtual Lab}} ==
 ... coming soon

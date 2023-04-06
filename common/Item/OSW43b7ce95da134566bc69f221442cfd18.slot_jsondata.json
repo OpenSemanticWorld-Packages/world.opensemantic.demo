@@ -1,0 +1,34 @@
+{
+    "project_manager": [
+        "Item:OSW8ec5338887b04936869798218254c1e7"
+    ],
+    "start_date": "2023-01-01",
+    "end_date": "2025-12-31",
+    "type": [
+        "Category:OSWb2d7e6a2eff94c82b7f1f2699d5b0ee3"
+    ],
+    "uuid": "43b7ce95-da13-4566-bc69-f221442cfd18",
+    "name": "DemoProject",
+    "label": [
+        {
+            "text": "Demo Project",
+            "lang": "en"
+        },
+        {
+            "text": "Demo Projekt",
+            "lang": "de"
+        }
+    ],
+    "description": [
+        {
+            "text": "A project for demo purpose",
+            "lang": "en"
+        },
+        {
+            "text": "Ein Projekt f\u00fcr Demonstrationszwecke",
+            "lang": "de"
+        }
+    ],
+    "image": "File:OSW1f774a3d8e6a4145b31d19e7a2cb09fb.PNG",
+    "abstract": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   \n\nDuis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   \n\nUt wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   \n\nNam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer"
+}

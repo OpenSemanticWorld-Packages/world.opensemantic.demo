@@ -11,7 +11,7 @@
             "globalID": "world.opensemantic.demo.common",
             "label": "OSW Demo - Common",
             "description": "Provides common demo content",
-            "version": "0.1.8",
+            "version": "0.2.0",
             "baseURL": "https://raw.githubusercontent.com/OpenSemanticWorld-Packages/world.opensemantic.demo/main/common/",
             "pages": [
                 {
@@ -89,6 +89,113 @@
                     "namespace": "NS_FILE",
                     "urlPath": "File/OSWcaf3d5f5d19645808dc587da8738ea1b.jpg.slot_main.wikitext",
                     "fileURLPath": "File/OSWcaf3d5f5d19645808dc587da8738ea1b.jpg",
+                    "slots": {}
+                },
+                {
+                    "name": "OSW43b7ce95da134566bc69f221442cfd18",
+                    "label": "DemoProject",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW43b7ce95da134566bc69f221442cfd18.slot_main.wikitext",
+                    "slots": {
+                        "footer": {
+                            "urlPath": "Item/OSW43b7ce95da134566bc69f221442cfd18.slot_footer.wikitext"
+                        },
+                        "header": {
+                            "urlPath": "Item/OSW43b7ce95da134566bc69f221442cfd18.slot_header.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW43b7ce95da134566bc69f221442cfd18.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW1f774a3d8e6a4145b31d19e7a2cb09fb.PNG",
+                    "namespace": "NS_FILE",
+                    "urlPath": "File/OSW1f774a3d8e6a4145b31d19e7a2cb09fb.PNG.slot_main.wikitext",
+                    "fileURLPath": "File/OSW1f774a3d8e6a4145b31d19e7a2cb09fb.PNG",
+                    "slots": {}
+                },
+                {
+                    "name": "OSW727ae933ec6d48f18e637e8ffe15e436",
+                    "label": "DemoElnEntry",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW727ae933ec6d48f18e637e8ffe15e436.slot_main.wikitext",
+                    "slots": {
+                        "footer": {
+                            "urlPath": "Item/OSW727ae933ec6d48f18e637e8ffe15e436.slot_footer.wikitext"
+                        },
+                        "header": {
+                            "urlPath": "Item/OSW727ae933ec6d48f18e637e8ffe15e436.slot_header.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW727ae933ec6d48f18e637e8ffe15e436.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSW8ec5338887b04936869798218254c1e7",
+                    "label": "TestUser",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSW8ec5338887b04936869798218254c1e7.slot_main.wikitext",
+                    "slots": {
+                        "footer": {
+                            "urlPath": "Item/OSW8ec5338887b04936869798218254c1e7.slot_footer.wikitext"
+                        },
+                        "header": {
+                            "urlPath": "Item/OSW8ec5338887b04936869798218254c1e7.slot_header.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSW8ec5338887b04936869798218254c1e7.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWf961b2360bdf4c50a955fdf7c5d21c90.PNG",
+                    "label": "MyProfilePhoto",
+                    "namespace": "NS_FILE",
+                    "urlPath": "File/OSWf961b2360bdf4c50a955fdf7c5d21c90.PNG.slot_main.wikitext",
+                    "fileURLPath": "File/OSWf961b2360bdf4c50a955fdf7c5d21c90.PNG",
+                    "slots": {
+                        "footer": {
+                            "urlPath": "File/OSWf961b2360bdf4c50a955fdf7c5d21c90.PNG.slot_footer.wikitext"
+                        },
+                        "header": {
+                            "urlPath": "File/OSWf961b2360bdf4c50a955fdf7c5d21c90.PNG.slot_header.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "File/OSWf961b2360bdf4c50a955fdf7c5d21c90.PNG.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWe0dc3ee6559648659238b9dd4372cb8f",
+                    "label": "Benzene",
+                    "namespace": "NS_ITEM",
+                    "urlPath": "Item/OSWe0dc3ee6559648659238b9dd4372cb8f.slot_main.wikitext",
+                    "slots": {
+                        "footer": {
+                            "urlPath": "Item/OSWe0dc3ee6559648659238b9dd4372cb8f.slot_footer.wikitext"
+                        },
+                        "header": {
+                            "urlPath": "Item/OSWe0dc3ee6559648659238b9dd4372cb8f.slot_header.wikitext"
+                        },
+                        "jsondata": {
+                            "urlPath": "Item/OSWe0dc3ee6559648659238b9dd4372cb8f.slot_jsondata.json"
+                        }
+                    }
+                },
+                {
+                    "name": "OSWd5d9882cde80415c9363ca43380913d2.png",
+                    "namespace": "NS_FILE",
+                    "urlPath": "File/OSWd5d9882cde80415c9363ca43380913d2.png.slot_main.wikitext",
+                    "fileURLPath": "File/OSWd5d9882cde80415c9363ca43380913d2.png",
+                    "slots": {}
+                },
+                {
+                    "name": "OSWd5d9882cde80415c9363ca43380913d2.png",
+                    "namespace": "NS_FILE",
+                    "urlPath": "File/OSWd5d9882cde80415c9363ca43380913d2.png.slot_main.wikitext",
+                    "fileURLPath": "File/OSWd5d9882cde80415c9363ca43380913d2.png",
                     "slots": {}
                 }
             ]

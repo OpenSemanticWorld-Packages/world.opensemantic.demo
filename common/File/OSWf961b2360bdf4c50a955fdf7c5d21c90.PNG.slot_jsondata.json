@@ -1,0 +1,13 @@
+{
+    "type": [
+        "Category:Item"
+    ],
+    "uuid": "e5c51148-63c9-47f1-9325-23e82690a00e",
+    "name": "MyProfilePhoto",
+    "label": [
+        {
+            "text": "My Profile Photo",
+            "lang": "en"
+        }
+    ]
+}

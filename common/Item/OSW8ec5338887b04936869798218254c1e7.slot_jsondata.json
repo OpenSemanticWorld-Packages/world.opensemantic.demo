@@ -1,0 +1,17 @@
+{
+    "uuid": "8ec53388-87b0-4936-8697-98218254c1e7",
+    "label": [
+        {
+            "text": "Demo User",
+            "lang": "en"
+        }
+    ],
+    "first_name": "Demo",
+    "surname": "User",
+    "type": [
+        "Category:OSWd9aa0bca9b0040d8af6f5c091bf9eec7"
+    ],
+    "username": "DemoUser",
+    "image": "File:OSWf961b2360bdf4c50a955fdf7c5d21c90.PNG",
+    "name": "TestUser"
+}

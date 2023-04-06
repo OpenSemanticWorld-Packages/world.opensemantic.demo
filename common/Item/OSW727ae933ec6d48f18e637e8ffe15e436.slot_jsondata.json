@@ -1,0 +1,25 @@
+{
+    "project": "Item:OSW43b7ce95da134566bc69f221442cfd18",
+    "type": [
+        "Category:OSW0e7fab2262fb4427ad0fa454bc868a0d"
+    ],
+    "creator": "Item:OSW8ec5338887b04936869798218254c1e7",
+    "input": [
+        "Item:OSWe0dc3ee6559648659238b9dd4372cb8f"
+    ],
+    "uuid": "727ae933-ec6d-48f1-8e63-7e8ffe15e436",
+    "name": "DemoElnEntry",
+    "label": [
+        {
+            "text": "Demo ELN Entry",
+            "lang": "en"
+        }
+    ],
+    "query_label": "",
+    "description": [
+        {
+            "text": "A demo lab experiment",
+            "lang": "en"
+        }
+    ]
+}
